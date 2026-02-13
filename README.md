@@ -56,6 +56,28 @@ Sensor Node → LoRa → Gateway → Cloud → Dashboard
 ⏳ Hardware assembly in progress  
 ⏳ Gateway setup  
 ⏳ Dashboard development  
+---
+## Technical Specifications
+
+Communication:
+- Frequency: 433 MHz / 868 MHz / 915 MHz
+- Modulation: LoRa (Chirp Spread Spectrum)
+- Range: 2–5 km (LOS)
+
+Microcontroller:
+- ESP32 (Dual core, 240 MHz)
+
+Sensors:
+- Ultrasonic JSN-SR04T (2–400 cm range)
+- MQ2 Gas Sensor
+
+Power:
+- 3.7V Li-ion battery
+- Deep sleep enabled
+
+Protocol:
+- Point-to-Point LoRa communication
+
 
 ---
 
