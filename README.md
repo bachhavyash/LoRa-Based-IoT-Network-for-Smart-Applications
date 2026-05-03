@@ -36,7 +36,7 @@ This project presents a LoRa-based IoT monitoring system using ESP32 and RYLR998
 
 ## System Architecture
 
-![Architecture](hardware/block_diagram.png)
+![Architecture](system_architeture.png)
 
 ---
 
