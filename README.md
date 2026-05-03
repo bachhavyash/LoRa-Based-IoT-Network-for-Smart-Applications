@@ -1,6 +1,6 @@
 # Design and Development of a LoRa-Based IoT Network for Smart Applications
 
-![Project](system_architeture.png)
+![Project](images/project_model.png)
 
 ## Overview
 
