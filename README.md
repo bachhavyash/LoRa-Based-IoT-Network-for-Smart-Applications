@@ -1,6 +1,7 @@
 # Design and Development of a LoRa-Based IoT Network for Smart Applications
+<img width="790" height="443" alt="hardware_setup" src="https://github.com/user-attachments/assets/eab9b204-40b0-45b5-9373-7c4836b0394c" />
 
-![Project](images/project_model.png)
+
 
 ## Overview
 
@@ -35,8 +36,9 @@ This project presents a LoRa-based IoT monitoring system using ESP32 and RYLR998
 ---
 
 ## System Architecture
+<img width="1122" height="1402" alt="system_architecture" src="https://github.com/user-attachments/assets/e67a7df9-b849-4500-986e-1b0edae78990" />
 
-![Architecture](system_architeture.png)
+
 
 ---
 
